@@ -1,0 +1,9 @@
+<html>
+<form method="POST" action="https://creator.zoho.com/api/mutualbpn/json/mumenu/form/Asociado/record/update">
+<input type="hidden" name ="authtoken" value="9a8ac24f9cbbbd61e8c4bb042f530be6">
+<input type="hidden" name ="scope" id="scope" value="creatorapi">
+<input type="text" name="criteria" value="(Contrasena==11111 && Email==&cuot;jhibadillo@hotmail.com&cuot;)">
+<input type="text" name="Contrasena" value="11111">
+<input type="submit" value="Update Record">
+</form>
+</html>
